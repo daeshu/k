@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: DAESHU K
+title: Daniel
 
 # Short description of your site
-description: Blog de prueba alojado en Jekyll!
+description: Azares del destino!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Acerca de: "aboutme"
+  Acerca de: "acerca-de"
   Enlaces:
     - Link 1: "https://deanattali.com/beautiful-jekyll/"
     - Link 2: "https://www.markdowntutorial.com/"
