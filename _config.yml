@@ -5,25 +5,25 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://daeshu.github.io/k/"
-baseurl: ""
+baseurl: "https://daeshu.github.io/k/"
 
 # If you are building a GitHub project page then use these settings:
-#url: "https://username.github.io/projectname"
-#baseurl: "/projectname"
+#url: "hhttps://daeshu.github.io/k/"
+#baseurl: "/aboutme"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: DAESHU K
+title: Daniel Escobar
 
 # Short description of your site
-description: Blog de prueba alojado en Jekyll!
+description: Memorias personales sobre aspectos poco relevantes de la vida de un incauto azar que el destino blasfema!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Acerca de: "aboutme"
+  Acerca de: "acerca-de"
   Enlaces:
     - Link 1: "https://deanattali.com/beautiful-jekyll/"
     - Link 2: "https://www.markdowntutorial.com/"
